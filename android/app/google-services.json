@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "874435617611",
+    "firebase_url": "https://brewme-a6361.firebaseio.com",
+    "project_id": "brewme-a6361",
+    "storage_bucket": "brewme-a6361.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874435617611:android:335694713ac4e903927ece",
+        "android_client_info": {
+          "package_name": "com.shekhartroman.brewme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874435617611-v07glmcru49co01fn1lbgl45i1arr31c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shekhartroman.brewme",
+            "certificate_hash": "f6234e43b277dbf5e25de62739e36514dac34eaa"
+          }
+        },
+        {
+          "client_id": "874435617611-jh74u43llqoj8c0etrvp7b8i5g1rna5n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPQqqulgaI8UPrfS1y0yajs4LRs8TBDeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874435617611-jh74u43llqoj8c0etrvp7b8i5g1rna5n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
